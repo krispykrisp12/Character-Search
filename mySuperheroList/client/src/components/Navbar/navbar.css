@@ -1,0 +1,29 @@
+.navbar {
+  height: 100px;
+  background-color: cadetblue;
+  color: black;
+  /* margin-top: 1%; */
+}
+
+h1 {
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.text-secondary {
+  text-align: right;
+}
+
+.button {
+  font-size: 20px;
+}
+
+.title-image {
+  width: 70px;
+  height: 70px;
+  border-radius: 20px;
+}
+
+.App-title {
+  padding-top: 20px;
+}

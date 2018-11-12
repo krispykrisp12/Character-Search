@@ -1,0 +1,33 @@
+.home-content {
+  margin: 20px auto;
+  text-align: center;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  
+}
+
+.image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.box {
+  text-align: center;
+  border: solid 1px black;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.dev {
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+}
+.name {
+  margin: 5px;
+}
